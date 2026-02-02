@@ -1,5 +1,5 @@
 Card(
-  elevation: 5,
+  elevation: 7,
   margin: EdgeInsets.all(16),
   child: Padding(
     padding: EdgeInsets.all(16),
